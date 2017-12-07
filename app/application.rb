@@ -12,8 +12,6 @@ class Application
     else
       resp.write "You lose!"
     end
-
-    resp.write "Hello, World"
     resp.finish
   end
 
